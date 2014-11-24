@@ -20,6 +20,6 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Key Files
 
-+ **run_analysis.R** -- Main R script that performs steps 1 through 5 described above
++ **run_analysis.R** -- R script that performs steps 1 through 5 described above
 + **tidydataset.txt** -- Tidy data set created in step 5 of the instructions
 + **CodeBook.md** -- Code book that describes each variable and its values in the tidy data set
