@@ -11,6 +11,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Data Book
 ------------------------
 
+## Background and Process
 The following data was provided for each record in the original dataset:
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
@@ -47,7 +48,7 @@ An R script called run_analysis.R was written that does the following:
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject (saved in tidydataset.txt). 
 
 
-Variables
+## Variables
 -----------------------
 | Variable | Description/Units
 -----------|------------------
