@@ -52,10 +52,7 @@ Variables
 | Variable | Description/Units
 -----------|------------------
 | Subject | Subject who performed activity, ranges from 1 to 30
-| Activity | Activity performed, either WALKING
-, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING
-, or LAYING
-
+| Activity | Activity performed, either WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING
 | TimeBodyAccelerometer-mean()-X | X-axis mean body acceleration in time domain
 | TimeBodyAccelerometer-mean()-Y | Y-axis mean body acceleration in time domain
 | TimeBodyAccelerometer-mean()-Z | Z-axis mean body acceleration in time domain
